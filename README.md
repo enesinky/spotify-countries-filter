@@ -8,12 +8,12 @@ With this web application, you may list all the tracks in a playlist and filter 
 For now, we just list the playlist by default. To test our application you may visit our demo page http://spotify.msdeveci.net 
 
 # Installing
-If you want to work on your own machine you need to configure API URL based on your own web servers.
+If you wish to work on your own machine you need to configure API URL based on your own web servers.
 
 
 ### Step 1
 
-You should create an app on Spotify Developers Platform to gain your own credentials. Find the documentation on https://developer.spotify.com/dashboard/applications.
+Create an app on Spotify Developers Platform to gain your own credentials. Find the documentation on https://developer.spotify.com/dashboard/applications.
 
 ### Step 2
 On Home.vue file find this row anc change it with your own credentials
